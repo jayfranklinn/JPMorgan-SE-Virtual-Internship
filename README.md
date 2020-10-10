@@ -4,10 +4,10 @@ In this repository I will list the code used, and the modifications made during 
 
 The goal of the experience was to provide functionality to be added to a trader's dashboard to allow them to input specific information to monitor a new trading strategy.
 
-## The experience was split into 3 tasks to achieve this, I will briefly explain them below.
+The experience was split into 3 tasks to achieve this, I will briefly explain them below.
 
 
-Task 1: "Fixing broken client datafeed and creating patch files"
+## Task 1: "Fixing broken client datafeed and creating patch files"
 
   Using basic programming in python I fixed the stock price data feed so the code executes properly.
   
