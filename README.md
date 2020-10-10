@@ -12,6 +12,8 @@ The experience was split into 3 tasks to achieve this, I will briefly explain th
   Using basic programming in python I fixed the stock price data feed so the code executes properly.
   
   Generated a .patch file of changes made using the command line.
+  
+  ![](image/XXXXXX.
 
 
 ### Task 2: "Fix the broken typescript files in repository to make the web application output correctly"
