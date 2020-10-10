@@ -23,6 +23,9 @@ The experience was split into 3 tasks to achieve this, I will briefly explain th
   Dependencies and APIS used: node, npm, typescript, react.
   
   Modifications were recorded in a .patch file.
+
+<img src="images/task2IMG.png" width=400>
+
   
  
 ### Task 3: "Modify the typescript files in repository to make the web application behave in the expected manner"
@@ -31,5 +34,6 @@ The experience was split into 3 tasks to achieve this, I will briefly explain th
 
   An alert was triggered if the ratio strayed +/- 10% of the 12 month historical average.
   
+<img src="images/task3IMG.png" width=400>
   
   
