@@ -13,7 +13,7 @@ The experience was split into 3 tasks to achieve this, I will briefly explain th
   
   Generated a .patch file of changes made using the command line.
   
-<img src="images/patch1.png">
+<img src="images/patch1.png" width=400>
 
 
 ### Task 2: "Fix the broken typescript files in repository to make the web application output correctly"
